@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giant Robot.CSharp.Plugins", "Giant Robot.CSharp.Plugins.csproj", "{479A61BD-1BBA-00B1-1FC7-BEBDBA207F07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giant Robot.CSharp", "Giant Robot.CSharp.csproj", "{A794FB05-D037-BEFD-1EB5-500D05E3ADD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giant Robot.CSharp.Editor", "Giant Robot.CSharp.Editor.csproj", "{2E313BB8-7401-1BD4-598E-6D0CFFF605BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{479A61BD-1BBA-00B1-1FC7-BEBDBA207F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479A61BD-1BBA-00B1-1FC7-BEBDBA207F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479A61BD-1BBA-00B1-1FC7-BEBDBA207F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479A61BD-1BBA-00B1-1FC7-BEBDBA207F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A794FB05-D037-BEFD-1EB5-500D05E3ADD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A794FB05-D037-BEFD-1EB5-500D05E3ADD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A794FB05-D037-BEFD-1EB5-500D05E3ADD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A794FB05-D037-BEFD-1EB5-500D05E3ADD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E313BB8-7401-1BD4-598E-6D0CFFF605BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E313BB8-7401-1BD4-598E-6D0CFFF605BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E313BB8-7401-1BD4-598E-6D0CFFF605BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E313BB8-7401-1BD4-598E-6D0CFFF605BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
